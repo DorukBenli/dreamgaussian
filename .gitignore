@@ -6,6 +6,8 @@ venv_*/
 .vs/
 .vscode/
 .idea/
+.dreamgaus/
+dreamgaus/
 
 tmp_*
 data?
@@ -13,6 +15,8 @@ data??
 scripts2
 
 model_cache
+
+diff-gaussian-rasterization/
 
 logs*
 videos*
